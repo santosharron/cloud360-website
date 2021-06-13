@@ -403,26 +403,9 @@ CDN link to js-cloudimage-360-view 1.1.0 + lozad.js 1.9.0
 <script src="https://cdn.scaleflex.it/filerobot/js-cloudimage-360-view/v2.0.0.lozad.min.js"></script>
 ```
 
-
-## <a name="best-practices"/> Best practices
-
-* In order to use cloudimage responsive with 360 view, your original (master) images should be stored on a server
-or storage bucket (S3, Google Cloud, Azure Blob...) reachable over
-HTTP or HTTPS by Cloudimage. If you want to upload your master images to
-Cloudimage, contact us at
-[hello@cloudimage.io](mailto:hello@cloudimage.io).
-
 ## <a name="browser_support"></a> Browser support
 
 Tested in all modern browsers and IE 11, 10, 9.
-
-## <a name="ui_family"></a>Filerobot UI Familiy
-
-* [JS Cloudimage Responsive](https://github.com/scaleflex/js-cloudimage-responsive)
-* [React Cloudimage Responsive](https://github.com/scaleflex/react-cloudimage-responsive)
-* [Angular Cloudimage Responsive](https://github.com/scaleflex/ng-cloudimage-responsive)
-* [Image Editor](https://github.com/scaleflex/filerobot-image-editor)
-* [Uploader](https://github.com/scaleflex/filerobot-uploader)
 
 ## <a name="contributing"></a>Contributing!
 
