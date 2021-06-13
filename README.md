@@ -13,19 +13,7 @@
    JS Cloudimage 360 View
 </h1>
 
-<p align="center">
-	<strong>
-		<a href="#table_of_contents">Docs</a>
-		•
-		<a href="https://scaleflex.github.io/js-cloudimage-360-view/" target="_blank">Demo</a>
-		•
-		<a href="https://codesandbox.io/s/6479n17j73?fontsize=14&module=%2Findex.html" target="_blank">Code Sandbox</a>
-		•
-		<a href="https://youtu.be/zXUgrvZ7FMc" target="_blank">Video Tutorial</a>
-		•
-		<a href="https://medium.com/cloudimage/e-merchandising-how-can-a-360-view-of-your-products-boost-your-revenue-24b16eb9cd62" target="_blank">Why</a>
-	</strong>
-</p>
+
 
 A simple, interactive resource that can be used to provide a virtual tour of your product.
 
@@ -36,7 +24,7 @@ A simple, interactive resource that can be used to provide a virtual tour of you
 </p>
 
 powered by [Cloudimage](https://www.cloudimage.io/)
-([Watch the video here](https://www.youtube.com/watch?time_continue=2&v=JFZSE1vYb0k))
+([Watch the video here](https://youtu.be/tLScJDWM5ao))
 
 ## <a name="license"></a>License
 JS Cloudimage 360 View is provided under the [MIT License](https://opensource.org/licenses/MIT)
